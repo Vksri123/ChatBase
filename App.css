@@ -1,0 +1,35 @@
+.caption {
+    margin-top: 60px;
+    margin-left: 70px;
+    font-size: 40px;
+    
+    
+}
+
+.caption h1{
+    margin: 0px ;
+    font-weight: bold;
+}
+
+.caption p{
+    font-size: 20px;
+}
+
+.chat {
+    display: flex;
+    /* flex-direction: column; */
+    align-items: center;
+    margin-left: 65px;
+    gap: 20px;
+}
+.chat h3{
+    color: #f3f3f3;
+    border-radius: 5px;
+    height: 35px;
+    background-color: #ac2da5;
+   align-items: center;
+}
+
+.card{
+    margin-left: 65px;
+}
